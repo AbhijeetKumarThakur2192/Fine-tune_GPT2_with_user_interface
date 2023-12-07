@@ -40,7 +40,7 @@ You can check their Youtube [Here](https://m.youtube.com/@DigitalSreeni) and Git
 
 # 😁 Simple 😁
 
-## DISCLAIMER: This code is intended for ethical and educational purposes only. Please don't misuse of this code. Respect all ethical guidelines and legal regulations when utilizing this project.
+## DISCLAIMER: This code is intended for ethical and educational purposes only. Please don't misuse this code. Respect all ethical guidelines and legal regulations when utilizing this project.
 
 
 
